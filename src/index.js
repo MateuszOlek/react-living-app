@@ -5,7 +5,9 @@ import App from './Components/App';
 class RenderApp extends React.Component {
   render () {
     return (
-      <div className="body">
+      <div className="body" 
+      // style={{backgroundColor:'#ffffff'}}
+      >
         <App />
       </div>
     )
