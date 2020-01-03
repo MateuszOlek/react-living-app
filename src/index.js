@@ -9,7 +9,6 @@ class RenderApp extends React.Component {
       // style={{backgroundColor:'#ffffff'}}
       >
         <App />
-        <></>
       </div>
     )
   }
