@@ -6,7 +6,7 @@ class RenderApp extends React.Component {
   render () {
     return (
       <div className="body" 
-      // style={{backgroundColor:'#ffffff'}}
+      style={{backgroundColor:'#ffffff'}}
       >
         <App />
       </div>
